@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution]()
-- Live Site URL: [Live Demo]()
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/clipboard-landing-page-bNm8cvzPfQ)
+- Live Site URL: [Click here for live](https://freedev-group.github.io/Clipboard-landing-page-Wise/)
 
 ## My process
 
@@ -87,8 +87,8 @@ In future projects, I want to further explore:
 
 ## Author
 
-- Frontend Mentor - [@GuillainWise](https://www.frontendmentor.io/profile/GuillainWise)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@GuillainWise](https://www.frontendmentor.io/profile/guillainwise-glitch)
+- Twitter - [@GuillainWise](https://x.com/GuillainWi84543)
 
 ## Acknowledgments
 
